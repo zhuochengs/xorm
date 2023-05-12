@@ -1,0 +1,4 @@
+github.com/zhuochengs/xorm-builder v0.0.0-20230512030847-08759d282eb1 h1:tTkjlvmgXPiyvtd+UiZCGnoZmlPXYHllhwAHzn9YtP0=
+github.com/zhuochengs/xorm-builder v0.0.0-20230512030847-08759d282eb1/go.mod h1:1qcnqLkqA2ovSuTpd2a1KEzcJZ+CQSih11Cm0Px0UzY=
+github.com/zhuochengs/xorm-core v0.0.0-20230512032510-fa18f558aad7 h1:rTE+dmDxsKnw7Dkp/np3P1l4S8r1fGHKEw5LkbiqkSU=
+github.com/zhuochengs/xorm-core v0.0.0-20230512032510-fa18f558aad7/go.mod h1:Vb2m/AdTDi4hQ2Op/o8+rHQD16gQOCeKs3gQopGg4cg=

@@ -1,4 +1,4 @@
-module xorm
+module github.com/zhuochengs/xorm
 
 go 1.18
 

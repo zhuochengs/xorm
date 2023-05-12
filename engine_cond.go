@@ -8,11 +8,11 @@ import (
 	"database/sql/driver"
 	"encoding/json"
 	"fmt"
+	"github.com/zhuochengs/xorm-builder"
+	"github.com/zhuochengs/xorm-core"
 	"reflect"
 	"strings"
 	"time"
-
-	"github.com/zhuochengs/xorm-core"
 )
 
 func (engine *Engine) buildConds(table *core.Table, bean interface{},

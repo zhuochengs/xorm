@@ -1,6 +1,7 @@
 package xorm
 
 import (
+	"github.com/zhuochengs/xorm-core"
 	"reflect"
 )
 

@@ -7,11 +7,11 @@ package xorm
 import (
 	"errors"
 	"fmt"
+	"github.com/zhuochengs/xorm-builder"
+	"github.com/zhuochengs/xorm-core"
 	"reflect"
 	"strconv"
 	"strings"
-
-	"github.com/zhuochengs/xorm-core"
 )
 
 func (session *Session) cacheUpdate(table *core.Table, tableName, sqlStr string, args ...interface{}) error {
